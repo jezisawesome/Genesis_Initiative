@@ -1,0 +1,7 @@
+{
+  "encrypted": true,
+  "encryption_method": "AES-GCM + SealedBox",
+  "sealed_key": "miJgglYxnS8EaqxbrwsAEvMDIRiYZIH7ppA1g2N+VFlKqLMwa28G6KVvKfKPqlkz4D5YK57H2GHcBLIB2G887+usz3BoyGeyw1Yii7w2FQA=",
+  "nonce": "nZCuWG8nRSOWRtUZ",
+  "tag": "e/a96PjA8CzUfoRaR/+Tsg=="
+}
